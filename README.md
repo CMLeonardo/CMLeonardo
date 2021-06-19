@@ -8,33 +8,27 @@
 
 ## Contatos
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 <p align="center">
-    <a href="https://github.com/CMLeonardo">
-        <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://https://github.com/CMLeonardo">
+    <a href="https://github.com/CMLeonardo" target="_blank">
+        <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/CMLeonardo">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/cesar-morales-leonardo-131a10213/">
+    <a href="https://www.linkedin.com/in/cesar-morales-leonardo-131a10213/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-morales-leonardo-131a10213/">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:cmoralesleonardo@gmail.com">
+    <a href="mailto:cmoralesleonardo@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     &nbsp;&nbsp;&nbsp;&nbsp;
     </a>
-    <a href="https://www.instagram.com/cml04__/">
+    <a href="https://www.instagram.com/cml04__/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/cml04__/">
     </a>
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<p align="center"> 
   
 ## Habilidades
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 <p align="center">
     <img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
