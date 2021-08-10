@@ -1,7 +1,7 @@
 ## Oiee, tudo bem? Eu sou o Cesar Leonardo :slightly_smiling_face: 
 #### Sobre mim
 - Tenho 20 anos
-- 5º semestre do curso de Engenharia de Controle e Automação no IFSP - Salto.
+- 6º semestre do curso de Engenharia de Controle e Automação no IFSP - Salto.
 - Meus hobbies envolvem Jogos digitais :video_game:, basquete :basketball:, estudar :book: e desenvolver meus projetos :computer:
 - Atualmente estou estudando as linguagens HTML5, CSS3, JavaScript e Dart(Flutter)
 - Meu objetivo é aprender algumas linguagens de programação e com isso divulgar e compartilhar esse conhecimento através de plataformas  de streaming, a fim de ajudar outras pessoas que estão entrando no mundo da programação
