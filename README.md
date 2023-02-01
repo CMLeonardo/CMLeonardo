@@ -1,7 +1,7 @@
 ## Oiee, tudo bem? Eu sou o Cesar Leonardo :slightly_smiling_face: 
 #### Sobre mim
-- Tenho 21 anos
-- 8º semestre do curso de Engenharia de Controle e Automação no IFSP - Salto :man_student:
+- Tenho 22 anos
+- 9º semestre do curso de Engenharia de Controle e Automação no IFSP - Salto :man_student:
 - Analista de Engenharia TI Jr. no Itaú Unibanco :man_technologist:
 - Meus hobbies envolvem Jogos digitais :video_game:, basquete :basketball:, estudar :book: e desenvolver meus projetos :computer:
 - Atualmente estou estudando as linguagens PHP, MySQL e Java.
