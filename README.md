@@ -1,8 +1,9 @@
 ## Oiee, tudo bem? Eu sou o Cesar Leonardo :slightly_smiling_face: 
 #### Sobre mim
-- Tenho 22 anos
+- Tenho 24 anos
 - Formado Engenharia de Controle e Automação no IFSP - Salto :man_student:
-- Analista de Engenharia TI PL. no Itaú Unibanco :man_technologist:
+- Pós Garduado em Arquitetura de Software, Cybersecurity e Análise de Dados :man_student:
+- Analista de Engenharia TI Sr. no Itaú Unibanco :man_technologist:
 - Meus hobbies envolvem Jogos digitais :video_game:, basquete :basketball:, estudar :book: e desenvolver meus projetos :computer:
 - Atualmente estou estudando a infraestrutura AWS.
 - Meu objetivo é aprender algumas linguagens de programação e com isso divulgar e compartilhar esse conhecimento através de plataformas  de streaming, a fim de ajudar outras pessoas que estão entrando no mundo da programação.
